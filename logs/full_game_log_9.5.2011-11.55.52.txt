@@ -1,0 +1,5 @@
+Gamelog:
+Setup activation
+Product is used some time in trial version
+Time elapsed: 571.9989
+Time to end of trial: 328.0011

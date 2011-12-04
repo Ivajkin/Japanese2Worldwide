@@ -1,0 +1,519 @@
+Gamelog:
+Setup activation
+Product is activated
+Activating application
+Called gameSetup()
+Gamecard field loading: 0
+First gamecard selected: se {1,7}
+Second gamecard selected: se {15,15}
+
+Gamecard field loading: 1
+First gamecard selected: ma {7,5}
+Second gamecard selected: ma {6,12}
+
+Gamecard field loading: 2
+First gamecard selected: ni {14,7}
+Second gamecard selected: ni {7,14}
+
+Gamecard field loading: 3
+First gamecard selected: no {4,12}
+Second gamecard selected: no {2,14}
+
+Gamecard field loading: 4
+First gamecard selected: ya {6,8}
+Second gamecard selected: ya {3,14}
+
+Gamecard field loading: 5
+First gamecard selected: n {5,11}
+Second gamecard selected: n {9,9}
+
+Gamecard field loading: 6
+First gamecard selected: shi {8,15}
+Second gamecard selected: shi {6,15}
+
+Gamecard field loading: 7
+First gamecard selected: te {7,0}
+Second gamecard selected: te {5,12}
+
+Gamecard field loading: 8
+First gamecard selected: su {14,5}
+Second gamecard selected: su {2,0}
+
+Gamecard field loading: 9
+First gamecard selected: ro {7,3}
+Second gamecard selected: ro {10,14}
+
+Gamecard field loading: 10
+First gamecard selected: ra {5,13}
+Second gamecard selected: ra {5,9}
+
+Gamecard field loading: 11
+First gamecard selected: he {14,0}
+Second gamecard selected: he {13,8}
+
+Gamecard field loading: 12
+First gamecard selected: u {2,7}
+Second gamecard selected: u {14,3}
+
+Gamecard field loading: 13
+First gamecard selected: ne {11,3}
+Second gamecard selected: ne {4,9}
+
+Gamecard field loading: 14
+First gamecard selected: mi {1,9}
+Second gamecard selected: mi {5,5}
+
+Gamecard field loading: 15
+First gamecard selected: mi {5,10}
+Second gamecard selected: mi {10,4}
+
+Gamecard field loading: 16
+First gamecard selected: ta {5,1}
+Second gamecard selected: ta {0,6}
+
+Gamecard field loading: 17
+First gamecard selected: fu {14,10}
+Second gamecard selected: fu {10,5}
+
+Gamecard field loading: 18
+First gamecard selected: ma {8,3}
+Second gamecard selected: ma {3,7}
+
+Gamecard field loading: 19
+First gamecard selected: su {4,5}
+Second gamecard selected: su {4,8}
+
+Gamecard field loading: 20
+First gamecard selected: no {1,3}
+Second gamecard selected: no {3,9}
+
+Gamecard field loading: 21
+First gamecard selected: ra {2,2}
+Second gamecard selected: ra {8,12}
+
+Gamecard field loading: 22
+First gamecard selected: me {6,9}
+Second gamecard selected: me {4,14}
+
+Gamecard field loading: 23
+First gamecard selected: me {5,4}
+Second gamecard selected: me {9,5}
+
+Gamecard field loading: 24
+First gamecard selected: i {6,0}
+Second gamecard selected: i {4,10}
+
+Gamecard field loading: 25
+First gamecard selected: e {7,9}
+Second gamecard selected: e {15,4}
+
+Gamecard field loading: 26
+First gamecard selected: yu {8,10}
+Second gamecard selected: yu {12,14}
+
+Gamecard field loading: 27
+First gamecard selected: ka {15,10}
+Second gamecard selected: ka {6,6}
+
+Gamecard field loading: 28
+First gamecard selected: ki {13,10}
+Second gamecard selected: ki {15,6}
+
+Gamecard field loading: 29
+First gamecard selected: mu {14,11}
+Second gamecard selected: mu {4,15}
+
+Gamecard field loading: 30
+First gamecard selected: no {0,11}
+Second gamecard selected: no {13,13}
+
+Gamecard field loading: 31
+First gamecard selected: ru {7,2}
+Second gamecard selected: ru {11,14}
+
+Gamecard field loading: 32
+First gamecard selected: ru {2,5}
+Second gamecard selected: ru {6,10}
+
+Gamecard field loading: 33
+First gamecard selected: yu {0,0}
+Second gamecard selected: yu {11,8}
+
+Gamecard field loading: 34
+First gamecard selected: u {15,13}
+Second gamecard selected: u {15,14}
+
+Gamecard field loading: 35
+First gamecard selected: i {10,9}
+Second gamecard selected: i {11,5}
+
+Gamecard field loading: 36
+First gamecard selected: so {5,2}
+Second gamecard selected: so {4,13}
+
+Gamecard field loading: 37
+First gamecard selected: ka {11,0}
+Second gamecard selected: ka {9,14}
+
+Gamecard field loading: 38
+First gamecard selected: nu {13,15}
+Second gamecard selected: nu {10,15}
+
+Gamecard field loading: 39
+First gamecard selected: se {2,1}
+Second gamecard selected: se {8,9}
+
+Gamecard field loading: 40
+First gamecard selected: o {14,8}
+Second gamecard selected: o {10,10}
+
+Gamecard field loading: 41
+First gamecard selected: ra {2,15}
+Second gamecard selected: ra {11,1}
+
+Gamecard field loading: 42
+First gamecard selected: i {15,8}
+Second gamecard selected: i {9,10}
+
+Gamecard field loading: 43
+First gamecard selected: chi {9,6}
+Second gamecard selected: chi {4,11}
+
+Gamecard field loading: 44
+First gamecard selected: a {12,0}
+Second gamecard selected: a {5,8}
+
+Gamecard field loading: 45
+First gamecard selected: yu {9,11}
+Second gamecard selected: yu {12,6}
+
+Gamecard field loading: 46
+First gamecard selected: tsu {8,5}
+Second gamecard selected: tsu {6,5}
+
+Gamecard field loading: 47
+First gamecard selected: wa {0,3}
+Second gamecard selected: wa {7,6}
+
+Gamecard field loading: 48
+First gamecard selected: he {11,4}
+Second gamecard selected: he {12,4}
+
+Gamecard field loading: 49
+First gamecard selected: to {4,2}
+Second gamecard selected: to {11,9}
+
+Gamecard field loading: 50
+First gamecard selected: ri {7,13}
+Second gamecard selected: ri {13,0}
+
+Gamecard field loading: 51
+First gamecard selected: he {10,6}
+Second gamecard selected: he {13,14}
+
+Gamecard field loading: 52
+First gamecard selected: fu {6,13}
+Second gamecard selected: fu {9,4}
+
+Gamecard field loading: 53
+First gamecard selected: ri {7,15}
+Second gamecard selected: ri {7,4}
+
+Gamecard field loading: 54
+First gamecard selected: ku {14,15}
+Second gamecard selected: ku {12,9}
+
+Gamecard field loading: 55
+First gamecard selected: tsu {14,14}
+Second gamecard selected: tsu {12,10}
+
+Gamecard field loading: 56
+First gamecard selected: re {0,7}
+Second gamecard selected: re {9,15}
+
+Gamecard field loading: 57
+First gamecard selected: tsu {3,4}
+Second gamecard selected: tsu {12,15}
+
+Gamecard field loading: 58
+First gamecard selected: su {11,15}
+Second gamecard selected: su {13,4}
+
+Gamecard field loading: 59
+First gamecard selected: ru {8,0}
+Second gamecard selected: ru {14,4}
+
+Gamecard field loading: 60
+First gamecard selected: ha {13,6}
+Second gamecard selected: ha {12,5}
+
+Gamecard field loading: 61
+First gamecard selected: yo {1,11}
+Second gamecard selected: yo {0,5}
+
+Gamecard field loading: 62
+First gamecard selected: so {3,10}
+Second gamecard selected: so {8,13}
+
+Gamecard field loading: 63
+First gamecard selected: ha {15,0}
+Second gamecard selected: ha {0,14}
+
+Gamecard field loading: 64
+First gamecard selected: se {5,14}
+Second gamecard selected: se {0,15}
+
+Gamecard field loading: 65
+First gamecard selected: se {1,0}
+Second gamecard selected: se {8,6}
+
+Gamecard field loading: 66
+First gamecard selected: ya {7,1}
+Second gamecard selected: ya {9,13}
+
+Gamecard field loading: 67
+First gamecard selected: e {2,13}
+Second gamecard selected: e {15,7}
+
+Gamecard field loading: 68
+First gamecard selected: i {4,3}
+Second gamecard selected: i {13,9}
+
+Gamecard field loading: 69
+First gamecard selected: ke {1,5}
+Second gamecard selected: ke {3,5}
+
+Gamecard field loading: 70
+First gamecard selected: ko {1,15}
+Second gamecard selected: ko {9,0}
+
+Gamecard field loading: 71
+First gamecard selected: i {14,9}
+Second gamecard selected: i {13,2}
+
+Gamecard field loading: 72
+First gamecard selected: ma {3,0}
+Second gamecard selected: ma {0,1}
+
+Gamecard field loading: 73
+First gamecard selected: chi {7,7}
+Second gamecard selected: chi {14,13}
+
+Gamecard field loading: 74
+First gamecard selected: tsu {5,15}
+Second gamecard selected: tsu {13,5}
+
+Gamecard field loading: 75
+First gamecard selected: ri {5,6}
+Second gamecard selected: ri {2,6}
+
+Gamecard field loading: 76
+First gamecard selected: ka {7,8}
+Second gamecard selected: ka {2,11}
+
+Gamecard field loading: 77
+First gamecard selected: ko {1,6}
+Second gamecard selected: ko {15,5}
+
+Gamecard field loading: 78
+First gamecard selected: mo {10,13}
+Second gamecard selected: mo {12,8}
+
+Gamecard field loading: 79
+First gamecard selected: ha {3,6}
+Second gamecard selected: ha {4,6}
+
+Gamecard field loading: 80
+First gamecard selected: se {15,9}
+Second gamecard selected: se {8,14}
+
+Gamecard field loading: 81
+First gamecard selected: ha {6,1}
+Second gamecard selected: ha {13,12}
+
+Gamecard field loading: 82
+First gamecard selected: na {1,8}
+Second gamecard selected: na {11,10}
+
+Gamecard field loading: 83
+First gamecard selected: shi {0,10}
+Second gamecard selected: shi {3,11}
+
+Gamecard field loading: 84
+First gamecard selected: o {11,6}
+Second gamecard selected: o {0,9}
+
+Gamecard field loading: 85
+First gamecard selected: ni {8,7}
+Second gamecard selected: ni {2,9}
+
+Gamecard field loading: 86
+First gamecard selected: ro {6,11}
+Second gamecard selected: ro {13,11}
+
+Gamecard field loading: 87
+First gamecard selected: ke {1,10}
+Second gamecard selected: ke {8,2}
+
+Gamecard field loading: 88
+First gamecard selected: i {15,11}
+Second gamecard selected: i {3,1}
+
+Gamecard field loading: 89
+First gamecard selected: ke {14,6}
+Second gamecard selected: ke {1,1}
+
+Gamecard field loading: 90
+First gamecard selected: ro {4,0}
+Second gamecard selected: ro {3,15}
+
+Gamecard field loading: 91
+First gamecard selected: so {4,7}
+Second gamecard selected: so {2,12}
+
+Gamecard field loading: 92
+First gamecard selected: tsu {5,0}
+Second gamecard selected: tsu {2,10}
+
+Gamecard field loading: 93
+First gamecard selected: wo {1,12}
+Second gamecard selected: wo {1,14}
+
+Gamecard field loading: 94
+First gamecard selected: shi {5,7}
+Second gamecard selected: shi {10,0}
+
+Gamecard field loading: 95
+First gamecard selected: nu {10,8}
+Second gamecard selected: nu {4,4}
+
+Gamecard field loading: 96
+First gamecard selected: i {7,10}
+Second gamecard selected: i {6,7}
+
+Gamecard field loading: 97
+First gamecard selected: i {9,7}
+Second gamecard selected: i {7,11}
+
+Gamecard field loading: 98
+First gamecard selected: ku {7,12}
+Second gamecard selected: ku {8,11}
+
+Gamecard field loading: 99
+First gamecard selected: ku {0,8}
+Second gamecard selected: ku {10,11}
+
+Gamecard field loading: 100
+First gamecard selected: wa {11,11}
+Second gamecard selected: wa {13,7}
+
+Gamecard field loading: 101
+First gamecard selected: ma {4,1}
+Second gamecard selected: ma {12,11}
+
+Gamecard field loading: 102
+First gamecard selected: chi {0,12}
+Second gamecard selected: chi {3,12}
+
+Gamecard field loading: 103
+First gamecard selected: a {6,4}
+Second gamecard selected: a {9,3}
+
+Gamecard field loading: 104
+First gamecard selected: ne {8,1}
+Second gamecard selected: ne {9,12}
+
+Gamecard field loading: 105
+First gamecard selected: i {10,7}
+Second gamecard selected: i {10,12}
+
+Gamecard field loading: 106
+First gamecard selected: yo {11,12}
+Second gamecard selected: yo {9,1}
+
+Gamecard field loading: 107
+First gamecard selected: mi {11,7}
+Second gamecard selected: mi {12,7}
+
+Gamecard field loading: 108
+First gamecard selected: sa {2,8}
+Second gamecard selected: sa {11,13}
+
+Gamecard field loading: 109
+First gamecard selected: yo {12,13}
+Second gamecard selected: yo {3,8}
+
+Gamecard field loading: 110
+First gamecard selected: to {8,8}
+Second gamecard selected: to {10,1}
+
+Gamecard field loading: 111
+First gamecard selected: ne {12,12}
+Second gamecard selected: ne {9,8}
+
+Gamecard field loading: 112
+First gamecard selected: te {14,12}
+Second gamecard selected: te {12,1}
+
+Gamecard field loading: 113
+First gamecard selected: su {6,14}
+Second gamecard selected: su {13,1}
+
+Gamecard field loading: 114
+First gamecard selected: ho {14,1}
+Second gamecard selected: ho {15,12}
+
+Gamecard field loading: 115
+First gamecard selected: ka {0,13}
+Second gamecard selected: ka {1,13}
+
+Gamecard field loading: 116
+First gamecard selected: fu {3,13}
+Second gamecard selected: fu {8,4}
+
+Gamecard field loading: 117
+First gamecard selected: ku {15,1}
+Second gamecard selected: ku {0,2}
+
+Gamecard field loading: 118
+First gamecard selected: so {10,3}
+Second gamecard selected: so {1,2}
+
+Gamecard field loading: 119
+First gamecard selected: mi {3,2}
+Second gamecard selected: mi {2,3}
+
+Gamecard field loading: 120
+First gamecard selected: ko {6,2}
+Second gamecard selected: ko {9,2}
+
+Gamecard field loading: 121
+First gamecard selected: se {10,2}
+Second gamecard selected: se {11,2}
+
+Gamecard field loading: 122
+First gamecard selected: se {12,2}
+Second gamecard selected: se {14,2}
+
+Gamecard field loading: 123
+First gamecard selected: re {15,2}
+Second gamecard selected: re {3,3}
+
+Gamecard field loading: 124
+First gamecard selected: o {5,3}
+Second gamecard selected: o {6,3}
+
+Gamecard field loading: 125
+First gamecard selected: nu {12,3}
+Second gamecard selected: nu {13,3}
+
+Gamecard field loading: 126
+First gamecard selected: re {15,3}
+Second gamecard selected: re {0,4}
+
+Gamecard field loading: 127
+First gamecard selected: ya {1,4}
+Second gamecard selected: ya {2,4}
+
+Time elapsed: 0.0
+Time to end of trial: 900.0

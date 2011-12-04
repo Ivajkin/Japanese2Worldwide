@@ -1,0 +1,6 @@
+Gamelog:
+Setup activation
+Product is activated
+Activating application
+Time elapsed: 1.9333328
+Time to end of trial: 898.06665

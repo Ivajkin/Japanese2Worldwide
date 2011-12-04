@@ -1,0 +1,3 @@
+Gamelog:
+Time elapsed: 44.06656
+Time to end of trial: 855.9335

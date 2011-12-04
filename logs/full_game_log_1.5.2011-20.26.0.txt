@@ -1,0 +1,707 @@
+Gamelog:
+Setup activation
+Product is used some time in trial version
+Called gameSetup()
+Не загрузилось"Simple-3-sa/sa.png"!
+Не загрузилось"Simple-3-sa/shi.png"!
+Не загрузилось"Simple-3-sa/su.png"!
+Не загрузилось"Simple-3-sa/se.png"!
+Не загрузилось"Simple-3-sa/so.png"!
+Gamecard field loading: 0
+First gamecard selected: se {9,6}
+Second gamecard selected: se {5,7}
+
+Gamecard field loading: 1
+First gamecard selected: su {6,7}
+Second gamecard selected: su {15,0}
+
+Gamecard field loading: 2
+First gamecard selected: shi {11,4}
+Second gamecard selected: shi {3,10}
+
+Gamecard field loading: 3
+First gamecard selected: shi {4,12}
+Second gamecard selected: shi {8,10}
+
+Gamecard field loading: 4
+First gamecard selected: sa {1,2}
+Second gamecard selected: sa {12,2}
+
+Gamecard field loading: 5
+First gamecard selected: se {13,14}
+Second gamecard selected: se {8,8}
+
+Gamecard field loading: 6
+First gamecard selected: su {4,3}
+Second gamecard selected: su {7,7}
+
+Gamecard field loading: 7
+First gamecard selected: se {12,3}
+Second gamecard selected: se {3,11}
+
+Gamecard field loading: 8
+First gamecard selected: se {13,3}
+Second gamecard selected: se {4,8}
+
+Gamecard field loading: 9
+First gamecard selected: so {7,11}
+Second gamecard selected: so {12,11}
+
+Gamecard field loading: 10
+First gamecard selected: sa {3,5}
+Second gamecard selected: sa {10,5}
+
+Gamecard field loading: 11
+First gamecard selected: so {11,11}
+Second gamecard selected: so {3,9}
+
+Gamecard field loading: 12
+First gamecard selected: sa {5,9}
+Second gamecard selected: sa {4,4}
+
+Gamecard field loading: 13
+First gamecard selected: so {6,9}
+Second gamecard selected: so {5,12}
+
+Gamecard field loading: 14
+First gamecard selected: se {8,9}
+Second gamecard selected: se {5,10}
+
+Gamecard field loading: 15
+First gamecard selected: se {6,10}
+Second gamecard selected: se {6,12}
+
+Gamecard field loading: 16
+First gamecard selected: se {10,12}
+Second gamecard selected: se {2,13}
+
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту se и объеденил с se
+>>Player:se=>se
+Игрок выбрал карту se и объеденил с se
+>>Player:se=>se
+Игрок выбрал карту se и объеденил с se
+>>Player:se=>se
+Игрок выбрал карту se и объеденил с se
+>>Player:se=>se
+Игрок выбрал карту se и объеденил с se
+>>Player:se=>se
+Игрок выбрал карту se и объеденил с se
+>>Player:se=>se
+Игрок выбрал карту se и объеденил с se
+>>Player:se=>se
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту sa и объеденил с sa
+>>Player:sa=>sa
+Игрок выбрал карту sa и объеденил с sa
+>>Player:sa=>sa
+Игрок выбрал карту sa и объеденил с sa
+>>Player:sa=>sa
+Игрок выбрал карту shi и объеденил с shi
+>>Player:shi=>shi
+Игрок выбрал карту shi и объеденил с shi
+>>Player:shi=>shi
+Игрок выбрал карту su и объеденил с su
+>>Player:su=>su
+Игрок выбрал карту su и объеденил с su
+>>Player:su=>su
+Игрок выбрал карту so и объеденил с so
+>>Player:so=>so
+Игрок выбрал карту so и объеденил с so
+>>Player:so=>so
+Игрок выбрал карту so и объеденил с so
+>>Player:so=>so
+Создаю кнопку для перехода к следующему уровню.
+Создаю кнопку для выхода в меню.
+Called gameSetup()
+Не загрузилось"Simple-4-ta/ta.png"!
+Не загрузилось"Simple-4-ta/te.png"!
+Не загрузилось"Simple-4-ta/to.png"!
+Не загрузилось"Simple-4-ta/tsu.png"!
+Не загрузилось"Simple-4-ta/chi.png"!
+Gamecard field loading: 0
+First gamecard selected: ta {13,0}
+Second gamecard selected: ta {9,13}
+
+Gamecard field loading: 1
+First gamecard selected: to {6,7}
+Second gamecard selected: to {3,14}
+
+Gamecard field loading: 2
+First gamecard selected: ta {10,8}
+Second gamecard selected: ta {7,7}
+
+Gamecard field loading: 3
+First gamecard selected: ta {5,3}
+Second gamecard selected: ta {8,7}
+
+Gamecard field loading: 4
+First gamecard selected: tsu {9,7}
+Second gamecard selected: tsu {14,2}
+
+Gamecard field loading: 5
+First gamecard selected: chi {2,0}
+Second gamecard selected: chi {6,2}
+
+Gamecard field loading: 6
+First gamecard selected: chi {12,14}
+Second gamecard selected: chi {2,10}
+
+Gamecard field loading: 7
+First gamecard selected: te {5,10}
+Second gamecard selected: te {7,4}
+
+Gamecard field loading: 8
+First gamecard selected: te {3,9}
+Second gamecard selected: te {14,11}
+
+Gamecard field loading: 9
+First gamecard selected: tsu {7,3}
+Second gamecard selected: tsu {4,8}
+
+Gamecard field loading: 10
+First gamecard selected: to {14,13}
+Second gamecard selected: to {1,13}
+
+Gamecard field loading: 11
+First gamecard selected: to {7,1}
+Second gamecard selected: to {2,1}
+
+Gamecard field loading: 12
+First gamecard selected: ta {5,8}
+Second gamecard selected: ta {11,8}
+
+Gamecard field loading: 13
+First gamecard selected: te {8,1}
+Second gamecard selected: te {13,1}
+
+Gamecard field loading: 14
+First gamecard selected: ta {8,4}
+Second gamecard selected: ta {7,9}
+
+Gamecard field loading: 15
+First gamecard selected: ta {0,2}
+Second gamecard selected: ta {10,10}
+
+Gamecard field loading: 16
+First gamecard selected: to {8,3}
+Second gamecard selected: to {8,9}
+
+Gamecard field loading: 17
+First gamecard selected: chi {12,9}
+Second gamecard selected: chi {1,2}
+
+Gamecard field loading: 18
+First gamecard selected: chi {13,10}
+Second gamecard selected: chi {1,11}
+
+Gamecard field loading: 19
+First gamecard selected: tsu {10,3}
+Second gamecard selected: tsu {3,11}
+
+Gamecard field loading: 20
+First gamecard selected: chi {9,2}
+Second gamecard selected: chi {15,2}
+
+Gamecard field loading: 21
+First gamecard selected: to {5,11}
+Second gamecard selected: to {10,11}
+
+Gamecard field loading: 22
+First gamecard selected: ta {12,11}
+Second gamecard selected: ta {7,12}
+
+Gamecard field loading: 23
+First gamecard selected: chi {6,13}
+Second gamecard selected: chi {8,12}
+
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту chi и объеденил с chi
+>>Player:chi=>chi
+Игрок выбрал карту chi и объеденил с chi
+>>Player:chi=>chi
+Игрок выбрал карту chi и объеденил с chi
+>>Player:chi=>chi
+Игрок выбрал карту chi и объеденил с chi
+>>Player:chi=>chi
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту ta и объеденил с ta
+>>Player:ta=>ta
+Игрок выбрал карту ta и объеденил с ta
+>>Player:ta=>ta
+Игрок выбрал карту chi и объеденил с chi
+>>Player:chi=>chi
+Игрок выбрал карту chi и объеденил с chi
+>>Player:chi=>chi
+Игрок выбрал карту ta и объеденил с ta
+>>Player:ta=>ta
+Игрок выбрал карту ta и объеденил с ta
+>>Player:ta=>ta
+Игрок выбрал карту ta и объеденил с ta
+>>Player:ta=>ta
+Игрок выбрал карту ta и объеденил с ta
+>>Player:ta=>ta
+Игрок выбрал карту ta и объеденил с ta
+>>Player:ta=>ta
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту tsu и объеденил с tsu
+>>Player:tsu=>tsu
+Игрок выбрал карту tsu и объеденил с tsu
+>>Player:tsu=>tsu
+Игрок выбрал карту tsu и объеденил с tsu
+>>Player:tsu=>tsu
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту to и объеденил с to
+>>Player:to=>to
+Игрок выбрал карту to и объеденил с to
+>>Player:to=>to
+Игрок выбрал карту to и объеденил с to
+>>Player:to=>to
+Игрок выбрал карту to и объеденил с to
+>>Player:to=>to
+Игрок выбрал карту to и объеденил с to
+>>Player:to=>to
+Игрок выбрал карту te и объеденил с te
+>>Player:te=>te
+Игрок выбрал карту te и объеденил с te
+>>Player:te=>te
+Игрок выбрал карту te и объеденил с te
+>>Player:te=>te
+Создаю кнопку для перехода к следующему уровню.
+Создаю кнопку для выхода в меню.
+Called gameSetup()
+Не загрузилось"Simple-5-na/na.png"!
+Не загрузилось"Simple-5-na/ni.png"!
+Не загрузилось"Simple-5-na/nu.png"!
+Не загрузилось"Simple-5-na/ne.png"!
+Не загрузилось"Simple-5-na/no.png"!
+Gamecard field loading: 0
+First gamecard selected: ne {13,8}
+Second gamecard selected: ne {1,9}
+
+Gamecard field loading: 1
+First gamecard selected: nu {7,3}
+Second gamecard selected: nu {2,6}
+
+Gamecard field loading: 2
+First gamecard selected: no {8,3}
+Second gamecard selected: no {14,12}
+
+Gamecard field loading: 3
+First gamecard selected: na {3,4}
+Second gamecard selected: na {8,14}
+
+Gamecard field loading: 4
+First gamecard selected: ne {12,13}
+Second gamecard selected: ne {2,8}
+
+Gamecard field loading: 5
+First gamecard selected: nu {2,7}
+Second gamecard selected: nu {13,5}
+
+Gamecard field loading: 6
+First gamecard selected: ni {8,12}
+Second gamecard selected: ni {11,13}
+
+Gamecard field loading: 7
+First gamecard selected: ni {11,7}
+Second gamecard selected: ni {2,9}
+
+Gamecard field loading: 8
+First gamecard selected: no {4,14}
+Second gamecard selected: no {4,9}
+
+Gamecard field loading: 9
+First gamecard selected: ne {10,6}
+Second gamecard selected: ne {4,4}
+
+Gamecard field loading: 10
+First gamecard selected: ne {5,4}
+Second gamecard selected: ne {13,7}
+
+Gamecard field loading: 11
+First gamecard selected: no {4,8}
+Second gamecard selected: no {7,8}
+
+Gamecard field loading: 12
+First gamecard selected: nu {6,4}
+Second gamecard selected: nu {7,4}
+
+Gamecard field loading: 13
+First gamecard selected: ne {7,9}
+Second gamecard selected: ne {13,9}
+
+Gamecard field loading: 14
+First gamecard selected: nu {13,6}
+Second gamecard selected: nu {1,13}
+
+Gamecard field loading: 15
+First gamecard selected: ni {8,9}
+Second gamecard selected: ni {8,4}
+
+Gamecard field loading: 16
+First gamecard selected: na {8,8}
+Second gamecard selected: na {5,6}
+
+Gamecard field loading: 17
+First gamecard selected: ne {9,4}
+Second gamecard selected: ne {11,10}
+
+Gamecard field loading: 18
+First gamecard selected: no {13,13}
+Second gamecard selected: no {6,6}
+
+Gamecard field loading: 19
+First gamecard selected: ni {11,9}
+Second gamecard selected: ni {10,4}
+
+Gamecard field loading: 20
+First gamecard selected: ne {7,6}
+Second gamecard selected: ne {4,7}
+
+Gamecard field loading: 21
+First gamecard selected: nu {5,14}
+Second gamecard selected: nu {7,10}
+
+Gamecard field loading: 22
+First gamecard selected: ni {4,11}
+Second gamecard selected: ni {14,9}
+
+Gamecard field loading: 23
+First gamecard selected: ne {7,14}
+Second gamecard selected: ne {8,10}
+
+Gamecard field loading: 24
+First gamecard selected: no {8,11}
+Second gamecard selected: no {11,8}
+
+Gamecard field loading: 25
+First gamecard selected: ni {1,10}
+Second gamecard selected: ni {4,10}
+
+Gamecard field loading: 26
+First gamecard selected: no {14,10}
+Second gamecard selected: no {8,6}
+
+Gamecard field loading: 27
+First gamecard selected: nu {11,4}
+Second gamecard selected: nu {9,13}
+
+Gamecard field loading: 28
+First gamecard selected: nu {12,4}
+Second gamecard selected: nu {2,5}
+
+Gamecard field loading: 29
+First gamecard selected: ne {1,11}
+Second gamecard selected: ne {1,12}
+
+Gamecard field loading: 30
+First gamecard selected: ne {9,6}
+Second gamecard selected: ne {3,11}
+
+Gamecard field loading: 31
+First gamecard selected: ni {7,11}
+Second gamecard selected: ni {11,11}
+
+Gamecard field loading: 32
+First gamecard selected: na {12,11}
+Second gamecard selected: na {14,11}
+
+Gamecard field loading: 33
+First gamecard selected: no {7,12}
+Second gamecard selected: no {2,13}
+
+Gamecard field loading: 34
+First gamecard selected: ni {3,13}
+Second gamecard selected: ni {7,13}
+
+Gamecard field loading: 35
+First gamecard selected: ni {4,13}
+Second gamecard selected: ni {5,13}
+
+Gamecard field loading: 36
+First gamecard selected: nu {6,13}
+Second gamecard selected: nu {8,13}
+
+Gamecard field loading: 37
+First gamecard selected: ne {10,13}
+Second gamecard selected: ne {14,13}
+
+Gamecard field loading: 38
+First gamecard selected: nu {10,14}
+Second gamecard selected: nu {11,14}
+
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту ne и объеденил с ne
+>>Player:ne=>ne
+Игрок выбрал карту ne и объеденил с ne
+>>Player:ne=>ne
+Игрок выбрал карту ne и объеденил с ne
+>>Player:ne=>ne
+Игрок выбрал карту ne и объеденил с ne
+>>Player:ne=>ne
+Игрок выбрал карту ne и объеденил с ne
+>>Player:ne=>ne
+Игрок выбрал карту ne и объеденил с ne
+>>Player:ne=>ne
+Игрок выбрал карту ne и объеденил с ne
+>>Player:ne=>ne
+Игрок выбрал карту ne и объеденил с ne
+>>Player:ne=>ne
+Игрок выбрал карту ne и объеденил с ne
+>>Player:ne=>ne
+Игрок выбрал карту ne и объеденил с ne
+>>Player:ne=>ne
+Игрок выбрал карту ne и объеденил с ne
+>>Player:ne=>ne
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту nu и объеденил с nu
+>>Player:nu=>nu
+Игрок выбрал карту nu и объеденил с nu
+>>Player:nu=>nu
+Игрок выбрал карту nu и объеденил с nu
+>>Player:nu=>nu
+Игрок выбрал карту nu и объеденил с nu
+>>Player:nu=>nu
+Игрок выбрал карту nu и объеденил с nu
+>>Player:nu=>nu
+Игрок выбрал карту nu и объеденил с nu
+>>Player:nu=>nu
+Игрок выбрал карту nu и объеденил с nu
+>>Player:nu=>nu
+Игрок выбрал карту nu и объеденил с nu
+>>Player:nu=>nu
+Игрок выбрал карту nu и объеденил с nu
+>>Player:nu=>nu
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту no и объеденил с no
+>>Player:no=>no
+Игрок выбрал карту no и объеденил с no
+>>Player:no=>no
+Игрок выбрал карту no и объеденил с no
+>>Player:no=>no
+Игрок выбрал карту no и объеденил с no
+>>Player:no=>no
+Игрок выбрал карту no и объеденил с no
+>>Player:no=>no
+Игрок выбрал карту no и объеденил с no
+>>Player:no=>no
+Игрок выбрал карту no и объеденил с no
+>>Player:no=>no
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту na и объеденил с na
+>>Player:na=>na
+Игрок выбрал карту na и объеденил с na
+>>Player:na=>na
+Игрок выбрал карту ni и объеденил с ni
+>>Player:ni=>ni
+Игрок выбрал карту ni и объеденил с ni
+>>Player:ni=>ni
+Игрок выбрал карту ni и объеденил с ni
+>>Player:ni=>ni
+Игрок выбрал карту ni и объеденил с ni
+>>Player:ni=>ni
+Игрок выбрал карту na и объеденил с ni
+>>Player:na=>ni
+Игрок выбрал карту ni и объеденил с ni
+>>Player:ni=>ni
+Игрок выбрал карту ni и объеденил с ni
+>>Player:ni=>ni
+Игрок выбрал карту na и объеденил с na
+>>Player:na=>na
+Игрок выбрал карту ni и объеденил с ni
+>>Player:ni=>ni
+Игрок выбрал карту ni и объеденил с ni
+>>Player:ni=>ni
+Игрок выбрал карту ni и объеденил с ni
+>>Player:ni=>ni
+Создаю кнопку для перехода к следующему уровню.
+Создаю кнопку для выхода в меню.
+Called gameSetup()
+Не загрузилось"Simple-6-ha/ha.png"!
+Не загрузилось"Simple-6-ha/hi.png"!
+Не загрузилось"Simple-6-ha/fu.png"!
+Не загрузилось"Simple-6-ha/he.png"!
+Не загрузилось"Simple-6-ha/ho.png"!
+Gamecard field loading: 0
+First gamecard selected: fu {9,10}
+Second gamecard selected: fu {7,7}
+
+Gamecard field loading: 1
+First gamecard selected: he {6,9}
+Second gamecard selected: he {11,4}
+
+Gamecard field loading: 2
+First gamecard selected: fu {13,4}
+Second gamecard selected: fu {5,10}
+
+Gamecard field loading: 3
+First gamecard selected: ha {4,11}
+Second gamecard selected: ha {6,10}
+
+Gamecard field loading: 4
+First gamecard selected: fu {13,10}
+Second gamecard selected: fu {6,6}
+
+Gamecard field loading: 5
+First gamecard selected: ha {12,3}
+Second gamecard selected: ha {13,3}
+
+Gamecard field loading: 6
+First gamecard selected: he {7,8}
+Second gamecard selected: he {0,0}
+
+Gamecard field loading: 7
+First gamecard selected: fu {11,8}
+Second gamecard selected: fu {9,8}
+
+Gamecard field loading: 8
+First gamecard selected: ho {0,2}
+Second gamecard selected: ho {8,6}
+
+Gamecard field loading: 9
+First gamecard selected: ho {1,0}
+Second gamecard selected: ho {9,6}
+
+Gamecard field loading: 10
+First gamecard selected: hi {6,11}
+Second gamecard selected: hi {10,11}
+
+Gamecard field loading: 11
+First gamecard selected: hi {4,12}
+Second gamecard selected: hi {6,5}
+
+Gamecard field loading: 12
+First gamecard selected: hi {2,0}
+Second gamecard selected: hi {5,12}
+
+Gamecard field loading: 13
+First gamecard selected: fu {12,9}
+Second gamecard selected: fu {7,5}
+
+Gamecard field loading: 14
+First gamecard selected: he {1,14}
+Second gamecard selected: he {0,1}
+
+Gamecard field loading: 15
+First gamecard selected: he {10,5}
+Second gamecard selected: he {11,5}
+
+Gamecard field loading: 16
+First gamecard selected: ha {14,11}
+Second gamecard selected: ha {10,7}
+
+Gamecard field loading: 17
+First gamecard selected: ho {8,9}
+Second gamecard selected: ho {10,9}
+
+Gamecard field loading: 18
+First gamecard selected: he {12,5}
+Second gamecard selected: he {15,9}
+
+Gamecard field loading: 19
+First gamecard selected: ho {11,12}
+Second gamecard selected: ho {12,13}
+
+Gamecard field loading: 20
+First gamecard selected: hi {10,14}
+Second gamecard selected: hi {1,1}
+
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту he и объеденил с he
+>>Player:he=>he
+Игрок выбрал карту he и объеденил с he
+>>Player:he=>he
+Игрок выбрал карту he и объеденил с he
+>>Player:he=>he
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту he и объеденил с he
+>>Player:he=>he
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту fu и объеденил с fu
+>>Player:fu=>fu
+Игрок выбрал карту fu и объеденил с fu
+>>Player:fu=>fu
+Игрок выбрал карту fu и объеденил с fu
+>>Player:fu=>fu
+Игрок выбрал карту fu и объеденил с fu
+>>Player:fu=>fu
+Игрок выбрал карту fu и объеденил с fu
+>>Player:fu=>fu
+Игрок выбрал карту he и объеденил с he
+>>Player:he=>he
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту hi и объеденил с hi
+>>Player:hi=>hi
+Игрок выбрал карту hi и объеденил с hi
+>>Player:hi=>hi
+Игрок выбрал карту hi и объеденил с hi
+>>Player:hi=>hi
+Игрок выбрал карту hi и объеденил с hi
+>>Player:hi=>hi
+Игрок выбрал карту ha и объеденил с ha
+>>Player:ha=>ha
+Игрок выбрал карту ho и объеденил с ha
+>>Player:ho=>ha
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту ho и объеденил с ho
+>>Player:ho=>ho
+Игрок выбрал карту ho и объеденил с ho
+>>Player:ho=>ho
+Игрок выбрал карту ho и объеденил с ho
+>>Player:ho=>ho
+Игрок выбрал карту ho и объеденил с ho
+>>Player:ho=>ho
+Игрок выбрал карту ha и объеденил с ha
+>>Player:ha=>ha
+Игрок выбрал карту ha и объеденил с ha
+>>Player:ha=>ha
+Создаю кнопку для перехода к следующему уровню.
+Создаю кнопку для выхода в меню.
+Time elapsed: 840.6212
+Time to end of trial: 59.378784

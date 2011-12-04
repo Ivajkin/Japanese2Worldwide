@@ -1,0 +1,629 @@
+Gamelog:
+Setup activation
+Product is activated
+Activating application
+Called gameSetup()
+Не загрузилось"hiragana-1-aka/a.png"!
+Не загрузилось"hiragana-1-aka/i.png"!
+Не загрузилось"hiragana-1-aka/u.png"!
+Не загрузилось"hiragana-1-aka/e.png"!
+Не загрузилось"hiragana-1-aka/o.png"!
+Не загрузилось"hiragana-1-aka/ka.png"!
+Не загрузилось"hiragana-1-aka/ki.png"!
+Не загрузилось"hiragana-1-aka/ku.png"!
+Не загрузилось"hiragana-1-aka/ke.png"!
+Не загрузилось"hiragana-1-aka/ko.png"!
+Gamecard field loading: 0
+First gamecard selected: a {14,0}
+Second gamecard selected: a {2,10}
+
+Gamecard field loading: 1
+First gamecard selected: ka {4,15}
+Second gamecard selected: ka {12,13}
+
+Gamecard field loading: 2
+First gamecard selected: ka {10,7}
+Second gamecard selected: ka {4,1}
+
+Gamecard field loading: 3
+First gamecard selected: a {5,2}
+Second gamecard selected: a {12,0}
+
+Gamecard field loading: 4
+First gamecard selected: ka {15,2}
+Second gamecard selected: ka {11,11}
+
+Gamecard field loading: 5
+First gamecard selected: e {1,4}
+Second gamecard selected: e {12,14}
+
+Gamecard field loading: 6
+First gamecard selected: u {2,3}
+Second gamecard selected: u {10,2}
+
+Gamecard field loading: 7
+First gamecard selected: ka {4,10}
+Second gamecard selected: ka {7,3}
+
+Gamecard field loading: 8
+First gamecard selected: i {1,2}
+Second gamecard selected: i {3,6}
+
+Gamecard field loading: 9
+First gamecard selected: ko {11,2}
+Second gamecard selected: ko {2,0}
+
+Gamecard field loading: 10
+First gamecard selected: o {2,15}
+Second gamecard selected: o {3,2}
+
+Gamecard field loading: 11
+First gamecard selected: o {6,11}
+Second gamecard selected: o {7,9}
+
+Gamecard field loading: 12
+First gamecard selected: i {3,0}
+Second gamecard selected: i {8,9}
+
+Gamecard field loading: 13
+First gamecard selected: u {4,6}
+Second gamecard selected: u {5,5}
+
+Gamecard field loading: 14
+First gamecard selected: ke {9,6}
+Second gamecard selected: ke {6,15}
+
+Gamecard field loading: 15
+First gamecard selected: o {7,0}
+Second gamecard selected: o {4,0}
+
+Gamecard field loading: 16
+First gamecard selected: ku {12,12}
+Second gamecard selected: ku {6,5}
+
+Gamecard field loading: 17
+First gamecard selected: ki {8,0}
+Second gamecard selected: ki {14,11}
+
+Gamecard field loading: 18
+First gamecard selected: u {7,12}
+Second gamecard selected: u {7,5}
+
+Gamecard field loading: 19
+First gamecard selected: ki {6,1}
+Second gamecard selected: ki {8,15}
+
+Gamecard field loading: 20
+First gamecard selected: e {9,8}
+Second gamecard selected: e {11,9}
+
+Gamecard field loading: 21
+First gamecard selected: a {9,14}
+Second gamecard selected: a {4,13}
+
+Gamecard field loading: 22
+First gamecard selected: u {13,12}
+Second gamecard selected: u {12,11}
+
+Gamecard field loading: 23
+First gamecard selected: u {12,1}
+Second gamecard selected: u {13,10}
+
+Gamecard field loading: 24
+First gamecard selected: ko {13,8}
+Second gamecard selected: ko {15,0}
+
+Gamecard field loading: 25
+First gamecard selected: ki {9,9}
+Second gamecard selected: ki {14,1}
+
+Gamecard field loading: 26
+First gamecard selected: o {3,11}
+Second gamecard selected: o {14,3}
+
+Gamecard field loading: 27
+First gamecard selected: o {15,14}
+Second gamecard selected: o {7,6}
+
+Gamecard field loading: 28
+First gamecard selected: a {4,2}
+Second gamecard selected: a {12,9}
+
+Gamecard field loading: 29
+First gamecard selected: o {7,4}
+Second gamecard selected: o {14,9}
+
+Gamecard field loading: 30
+First gamecard selected: i {0,1}
+Second gamecard selected: i {11,4}
+
+Gamecard field loading: 31
+First gamecard selected: u {0,5}
+Second gamecard selected: u {8,1}
+
+Gamecard field loading: 32
+First gamecard selected: o {5,10}
+Second gamecard selected: o {7,11}
+
+Gamecard field loading: 33
+First gamecard selected: ko {9,4}
+Second gamecard selected: ko {9,13}
+
+Gamecard field loading: 34
+First gamecard selected: ka {6,9}
+Second gamecard selected: ka {12,3}
+
+Gamecard field loading: 35
+First gamecard selected: e {4,11}
+Second gamecard selected: e {3,3}
+
+Gamecard field loading: 36
+First gamecard selected: i {0,15}
+Second gamecard selected: i {11,10}
+
+Gamecard field loading: 37
+First gamecard selected: ke {10,9}
+Second gamecard selected: ke {12,2}
+
+Gamecard field loading: 38
+First gamecard selected: e {8,11}
+Second gamecard selected: e {3,9}
+
+Gamecard field loading: 39
+First gamecard selected: ku {9,0}
+Second gamecard selected: ku {15,9}
+
+Gamecard field loading: 40
+First gamecard selected: ki {14,8}
+Second gamecard selected: ki {1,5}
+
+Gamecard field loading: 41
+First gamecard selected: a {13,9}
+Second gamecard selected: a {14,5}
+
+Gamecard field loading: 42
+First gamecard selected: ko {9,1}
+Second gamecard selected: ko {5,3}
+
+Gamecard field loading: 43
+First gamecard selected: ko {10,6}
+Second gamecard selected: ko {8,5}
+
+Gamecard field loading: 44
+First gamecard selected: i {2,4}
+Second gamecard selected: i {8,4}
+
+Gamecard field loading: 45
+First gamecard selected: u {7,1}
+Second gamecard selected: u {12,7}
+
+Gamecard field loading: 46
+First gamecard selected: ke {11,5}
+Second gamecard selected: ke {15,8}
+
+Gamecard field loading: 47
+First gamecard selected: ku {13,6}
+Second gamecard selected: ku {13,11}
+
+Gamecard field loading: 48
+First gamecard selected: i {4,9}
+Second gamecard selected: i {3,15}
+
+Gamecard field loading: 49
+First gamecard selected: a {14,6}
+Second gamecard selected: a {8,2}
+
+Gamecard field loading: 50
+First gamecard selected: ku {6,6}
+Second gamecard selected: ku {9,11}
+
+Gamecard field loading: 51
+First gamecard selected: e {10,4}
+Second gamecard selected: e {0,10}
+
+Gamecard field loading: 52
+First gamecard selected: u {9,3}
+Second gamecard selected: u {6,12}
+
+Gamecard field loading: 53
+First gamecard selected: o {8,12}
+Second gamecard selected: o {5,0}
+
+Gamecard field loading: 54
+First gamecard selected: u {1,10}
+Second gamecard selected: u {10,11}
+
+Gamecard field loading: 55
+First gamecard selected: ku {13,1}
+Second gamecard selected: ku {6,0}
+
+Gamecard field loading: 56
+First gamecard selected: e {2,11}
+Second gamecard selected: e {12,10}
+
+Gamecard field loading: 57
+First gamecard selected: ka {10,0}
+Second gamecard selected: ka {0,12}
+
+Gamecard field loading: 58
+First gamecard selected: u {3,1}
+Second gamecard selected: u {7,15}
+
+Gamecard field loading: 59
+First gamecard selected: ke {1,7}
+Second gamecard selected: ke {0,2}
+
+Gamecard field loading: 60
+First gamecard selected: u {3,10}
+Second gamecard selected: u {15,1}
+
+Gamecard field loading: 61
+First gamecard selected: e {13,2}
+Second gamecard selected: e {8,14}
+
+Gamecard field loading: 62
+First gamecard selected: i {9,15}
+Second gamecard selected: i {14,2}
+
+Gamecard field loading: 63
+First gamecard selected: i {7,10}
+Second gamecard selected: i {6,2}
+
+Gamecard field loading: 64
+First gamecard selected: e {5,13}
+Second gamecard selected: e {11,0}
+
+Gamecard field loading: 65
+First gamecard selected: ku {13,5}
+Second gamecard selected: ku {15,11}
+
+Gamecard field loading: 66
+First gamecard selected: ku {9,12}
+Second gamecard selected: ku {6,4}
+
+Gamecard field loading: 67
+First gamecard selected: o {6,10}
+Second gamecard selected: o {1,12}
+
+Gamecard field loading: 68
+First gamecard selected: ko {8,10}
+Second gamecard selected: ko {15,4}
+
+Gamecard field loading: 69
+First gamecard selected: u {2,6}
+Second gamecard selected: u {10,12}
+
+Gamecard field loading: 70
+First gamecard selected: ki {2,12}
+Second gamecard selected: ki {5,11}
+
+Gamecard field loading: 71
+First gamecard selected: a {10,3}
+Second gamecard selected: a {14,12}
+
+Gamecard field loading: 72
+First gamecard selected: a {2,9}
+Second gamecard selected: a {5,1}
+
+Gamecard field loading: 73
+First gamecard selected: a {3,12}
+Second gamecard selected: a {4,12}
+
+Gamecard field loading: 74
+First gamecard selected: ki {9,10}
+Second gamecard selected: ki {5,15}
+
+Gamecard field loading: 75
+First gamecard selected: e {1,6}
+Second gamecard selected: e {10,10}
+
+Gamecard field loading: 76
+First gamecard selected: ka {2,8}
+Second gamecard selected: ka {8,6}
+
+Gamecard field loading: 77
+First gamecard selected: u {1,1}
+Second gamecard selected: u {11,13}
+
+Gamecard field loading: 78
+First gamecard selected: u {7,7}
+Second gamecard selected: u {14,10}
+
+Gamecard field loading: 79
+First gamecard selected: ki {8,7}
+Second gamecard selected: ki {9,7}
+
+Gamecard field loading: 80
+First gamecard selected: e {10,1}
+Second gamecard selected: e {1,15}
+
+Gamecard field loading: 81
+First gamecard selected: u {11,3}
+Second gamecard selected: u {5,12}
+
+Gamecard field loading: 82
+First gamecard selected: ka {8,3}
+Second gamecard selected: ka {3,4}
+
+Gamecard field loading: 83
+First gamecard selected: i {11,1}
+Second gamecard selected: i {5,14}
+
+Gamecard field loading: 84
+First gamecard selected: ka {15,15}
+Second gamecard selected: ka {15,7}
+
+Gamecard field loading: 85
+First gamecard selected: a {11,12}
+Second gamecard selected: a {7,13}
+
+Gamecard field loading: 86
+First gamecard selected: ku {11,7}
+Second gamecard selected: ku {4,3}
+
+Gamecard field loading: 87
+First gamecard selected: a {10,15}
+Second gamecard selected: a {13,0}
+
+Gamecard field loading: 88
+First gamecard selected: ke {11,6}
+Second gamecard selected: ke {13,7}
+
+Gamecard field loading: 89
+First gamecard selected: a {6,8}
+Second gamecard selected: a {15,12}
+
+Gamecard field loading: 90
+First gamecard selected: e {0,13}
+Second gamecard selected: e {6,3}
+
+Gamecard field loading: 91
+First gamecard selected: ke {10,8}
+Second gamecard selected: ke {15,10}
+
+Gamecard field loading: 92
+First gamecard selected: ko {1,13}
+Second gamecard selected: ko {11,15}
+
+Gamecard field loading: 93
+First gamecard selected: ka {0,11}
+Second gamecard selected: ka {5,7}
+
+Gamecard field loading: 94
+First gamecard selected: o {12,4}
+Second gamecard selected: o {1,11}
+
+Gamecard field loading: 95
+First gamecard selected: u {0,4}
+Second gamecard selected: u {2,13}
+
+Gamecard field loading: 96
+First gamecard selected: ku {12,15}
+Second gamecard selected: ku {5,9}
+
+Gamecard field loading: 97
+First gamecard selected: ko {2,2}
+Second gamecard selected: ko {5,4}
+
+Gamecard field loading: 98
+First gamecard selected: ki {3,13}
+Second gamecard selected: ki {0,8}
+
+Gamecard field loading: 99
+First gamecard selected: ki {6,13}
+Second gamecard selected: ki {8,13}
+
+Gamecard field loading: 100
+First gamecard selected: ko {15,13}
+Second gamecard selected: ko {10,13}
+
+Gamecard field loading: 101
+First gamecard selected: ko {13,4}
+Second gamecard selected: ko {2,1}
+
+Gamecard field loading: 102
+First gamecard selected: i {13,13}
+Second gamecard selected: i {14,13}
+
+Gamecard field loading: 103
+First gamecard selected: ki {7,2}
+Second gamecard selected: ki {0,14}
+
+Gamecard field loading: 104
+First gamecard selected: ku {13,15}
+Second gamecard selected: ku {2,7}
+
+Gamecard field loading: 105
+First gamecard selected: a {1,8}
+Second gamecard selected: a {1,14}
+
+Gamecard field loading: 106
+First gamecard selected: ka {9,5}
+Second gamecard selected: ka {5,6}
+
+Gamecard field loading: 107
+First gamecard selected: u {14,7}
+Second gamecard selected: u {0,9}
+
+Gamecard field loading: 108
+First gamecard selected: i {3,7}
+Second gamecard selected: i {14,4}
+
+Gamecard field loading: 109
+First gamecard selected: ki {3,14}
+Second gamecard selected: ki {9,2}
+
+Gamecard field loading: 110
+First gamecard selected: ke {0,3}
+Second gamecard selected: ke {1,9}
+
+Gamecard field loading: 111
+First gamecard selected: e {5,8}
+Second gamecard selected: e {2,14}
+
+Gamecard field loading: 112
+First gamecard selected: i {4,14}
+Second gamecard selected: i {6,14}
+
+Gamecard field loading: 113
+First gamecard selected: i {10,5}
+Second gamecard selected: i {7,14}
+
+Gamecard field loading: 114
+First gamecard selected: i {4,8}
+Second gamecard selected: i {10,14}
+
+Gamecard field loading: 115
+First gamecard selected: e {14,15}
+Second gamecard selected: e {13,3}
+
+Gamecard field loading: 116
+First gamecard selected: ki {11,14}
+Second gamecard selected: ki {13,14}
+
+Gamecard field loading: 117
+First gamecard selected: e {1,3}
+Second gamecard selected: e {15,3}
+
+Gamecard field loading: 118
+First gamecard selected: ke {3,8}
+Second gamecard selected: ke {4,4}
+
+Gamecard field loading: 119
+First gamecard selected: o {12,6}
+Second gamecard selected: o {14,14}
+
+Gamecard field loading: 120
+First gamecard selected: ko {0,0}
+Second gamecard selected: ko {2,5}
+
+Gamecard field loading: 121
+First gamecard selected: ko {1,0}
+Second gamecard selected: ko {3,5}
+
+Gamecard field loading: 122
+First gamecard selected: ka {4,5}
+Second gamecard selected: ka {6,7}
+
+Gamecard field loading: 123
+First gamecard selected: ka {4,7}
+Second gamecard selected: ka {12,5}
+
+Gamecard field loading: 124
+First gamecard selected: ki {12,8}
+Second gamecard selected: ki {15,5}
+
+Gamecard field loading: 125
+First gamecard selected: a {0,6}
+Second gamecard selected: a {7,8}
+
+Gamecard field loading: 126
+First gamecard selected: a {8,8}
+Second gamecard selected: a {15,6}
+
+Gamecard field loading: 127
+First gamecard selected: o {0,7}
+Second gamecard selected: o {11,8}
+
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту u и объеденил с a
+>>Player:u=>a
+Игрок выбрал карту u и объеденил с u
+>>Player:u=>u
+Игрок выбрал карту u и объеденил с u
+>>Player:u=>u
+Игрок выбрал карту u и объеденил с u
+>>Player:u=>u
+Игрок выбрал карту u и объеденил с u
+>>Player:u=>u
+Игрок выбрал карту u и объеденил с u
+>>Player:u=>u
+Игрок выбрал карту u и объеденил с u
+>>Player:u=>u
+Игрок выбрал карту u и объеденил с u
+>>Player:u=>u
+Игрок выбрал карту u и объеденил с u
+>>Player:u=>u
+Игрок выбрал карту u и объеденил с u
+>>Player:u=>u
+Игрок выбрал карту u и объеденил с u
+>>Player:u=>u
+Игрок выбрал карту i и объеденил с i
+>>Player:i=>i
+Игрок выбрал карту i и объеденил с i
+>>Player:i=>i
+Игрок выбрал карту i и объеденил с i
+>>Player:i=>i
+Игрок выбрал карту i и объеденил с i
+>>Player:i=>i
+Игрок выбрал карту i и объеденил с i
+>>Player:i=>i
+Игрок выбрал карту i и объеденил с i
+>>Player:i=>i
+Игрок выбрал карту u и объеденил с a
+>>Player:u=>a
+Игрок выбрал карту u и объеденил с u
+>>Player:u=>u
+Игрок выбрал карту u и объеденил с u
+>>Player:u=>u
+Игрок выбрал карту a и объеденил с a
+>>Player:a=>a
+Игрок выбрал карту u и объеденил с u
+>>Player:u=>u
+Игрок выбрал карту a и объеденил с a
+>>Player:a=>a
+Игрок выбрал карту a и объеденил с a
+>>Player:a=>a
+Игрок выбрал карту a и объеденил с a
+>>Player:a=>a
+Игрок выбрал карту i и объеденил с i
+>>Player:i=>i
+Игрок выбрал карту i и объеденил с i
+>>Player:i=>i
+Игрок выбрал карту i и объеденил с i
+>>Player:i=>i
+Игрок выбрал карту a и объеденил с a
+>>Player:a=>a
+Игрок выбрал карту ko и объеденил с o
+>>Player:ko=>o
+Игрок выбрал карту ko и объеденил с e
+>>Player:ko=>e
+Игрок выбрал карту ko и объеденил с ko
+>>Player:ko=>ko
+Игрок выбрал карту ko и объеденил с ko
+>>Player:ko=>ko
+Игрок выбрал карту ko и объеденил с ko
+>>Player:ko=>ko
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту o и объеденил с e
+>>Player:o=>e
+Игрок выбрал карту o и объеденил с e
+>>Player:o=>e
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту o и объеденил с ko
+>>Player:o=>ko
+Игрок выбрал карту ko и объеденил с o
+>>Player:ko=>o
+Start showing help...
+Selecting first card for help.
+Selecting second card for help.
+End showing help...
+Игрок выбрал карту o и объеденил с o
+>>Player:o=>o
+Игрок выбрал карту o и объеденил с o
+>>Player:o=>o
+Игрок выбрал карту o и объеденил с o
+>>Player:o=>o
+Игрок выбрал карту o и объеденил с o
+>>Player:o=>o
+Time elapsed: 0.0
+Time to end of trial: 900.0

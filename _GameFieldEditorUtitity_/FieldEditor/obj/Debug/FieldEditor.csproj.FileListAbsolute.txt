@@ -1,0 +1,9 @@
+C:\Data\Учеба\Work\EasyLanGo\_GameFieldEditorUtitity_\FieldEditor\bin\Debug\FieldEditor.exe
+C:\Data\Учеба\Work\EasyLanGo\_GameFieldEditorUtitity_\FieldEditor\bin\Debug\FieldEditor.pdb
+C:\Data\Учеба\Work\EasyLanGo\_GameFieldEditorUtitity_\FieldEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Учеба\Work\EasyLanGo\_GameFieldEditorUtitity_\FieldEditor\obj\Debug\FieldEditor.MainForm.resources
+C:\Data\Учеба\Work\EasyLanGo\_GameFieldEditorUtitity_\FieldEditor\obj\Debug\FieldEditor.Properties.Resources.resources
+C:\Data\Учеба\Work\EasyLanGo\_GameFieldEditorUtitity_\FieldEditor\obj\Debug\FieldEditor.csproj.GenerateResource.Cache
+C:\Data\Учеба\Work\EasyLanGo\_GameFieldEditorUtitity_\FieldEditor\obj\Debug\FieldEditor.exe
+C:\Data\Учеба\Work\EasyLanGo\_GameFieldEditorUtitity_\FieldEditor\obj\Debug\FieldEditor.pdb
+C:\Data\Учеба\Work\EasyLanGo\_GameFieldEditorUtitity_\FieldEditor\obj\Debug\FieldEditor.Resources.resources

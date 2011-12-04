@@ -1,0 +1,62 @@
+Gamelog:
+Setup activation
+Product is activated
+Activating application
+Called gameSetup()
+Не загрузилось"test/ra.png"!
+Не загрузилось"test/ri.png"!
+Не загрузилось"test/ru.png"!
+Не загрузилось"test/re.png"!
+Не загрузилось"test/ro.png"!
+Gamecard field loading: 0
+First gamecard selected: ri {7,5}
+Second gamecard selected: ri {8,5}
+
+Игрок выбрал карту ri и объеденил с ri
+>>Player:ri=>ri
+Создаю кнопку для перехода к следующему уровню.
+Создаю кнопку для выхода в меню.
+Called gameSetup()
+Не загрузилось"test2/ra.png"!
+Не загрузилось"test2/ri.png"!
+Не загрузилось"test2/ru.png"!
+Не загрузилось"test2/re.png"!
+Не загрузилось"test2/ro.png"!
+Gamecard field loading: 0
+First gamecard selected: ra {7,5}
+Second gamecard selected: ra {8,5}
+
+Игрок выбрал карту ra и объеденил с ra
+>>Player:ra=>ra
+Создаю кнопку для перехода к следующему уровню.
+Создаю кнопку для выхода в меню.
+Called gameSetup()
+Не загрузилось"test/ra.png"!
+Не загрузилось"test/ri.png"!
+Не загрузилось"test/ru.png"!
+Не загрузилось"test/re.png"!
+Не загрузилось"test/ro.png"!
+Gamecard field loading: 0
+First gamecard selected: ri {7,5}
+Second gamecard selected: ri {8,5}
+
+Игрок выбрал карту ri и объеденил с ri
+>>Player:ri=>ri
+Создаю кнопку для перехода к следующему уровню.
+Создаю кнопку для выхода в меню.
+Called gameSetup()
+Не загрузилось"test2/ra.png"!
+Не загрузилось"test2/ri.png"!
+Не загрузилось"test2/ru.png"!
+Не загрузилось"test2/re.png"!
+Не загрузилось"test2/ro.png"!
+Gamecard field loading: 0
+First gamecard selected: ru {7,5}
+Second gamecard selected: ru {8,5}
+
+Игрок выбрал карту ru и объеденил с ru
+>>Player:ru=>ru
+Создаю кнопку для перехода к следующему уровню.
+Создаю кнопку для выхода в меню.
+Time elapsed: 0.0
+Time to end of trial: 900.0

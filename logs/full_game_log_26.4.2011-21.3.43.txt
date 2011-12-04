@@ -1,0 +1,132 @@
+Gamelog:
+Setup activation
+Product is activated
+Activating application
+Called gameSetup()
+Не загрузилось"Simple-9-ra/ra.png"!
+Не загрузилось"Simple-9-ra/ri.png"!
+Не загрузилось"Simple-9-ra/ru.png"!
+Не загрузилось"Simple-9-ra/re.png"!
+Не загрузилось"Simple-9-ra/ro.png"!
+Gamecard field loading: 0
+First gamecard selected: re {10,10}
+Second gamecard selected: re {4,12}
+
+Gamecard field loading: 1
+First gamecard selected: ra {10,12}
+Second gamecard selected: ra {9,4}
+
+Gamecard field loading: 2
+First gamecard selected: ru {7,14}
+Second gamecard selected: ru {9,3}
+
+Gamecard field loading: 3
+First gamecard selected: ru {7,6}
+Second gamecard selected: ru {11,2}
+
+Gamecard field loading: 4
+First gamecard selected: ru {10,1}
+Second gamecard selected: ru {7,15}
+
+Gamecard field loading: 5
+First gamecard selected: re {2,7}
+Second gamecard selected: re {6,3}
+
+Gamecard field loading: 6
+First gamecard selected: ri {8,1}
+Second gamecard selected: ri {11,9}
+
+Gamecard field loading: 7
+First gamecard selected: ro {9,7}
+Second gamecard selected: ro {8,14}
+
+Gamecard field loading: 8
+First gamecard selected: ra {1,5}
+Second gamecard selected: ra {3,3}
+
+Gamecard field loading: 9
+First gamecard selected: ri {4,9}
+Second gamecard selected: ri {5,10}
+
+Gamecard field loading: 10
+First gamecard selected: ru {7,1}
+Second gamecard selected: ru {8,15}
+
+Gamecard field loading: 11
+First gamecard selected: ra {4,11}
+Second gamecard selected: ra {6,11}
+
+Gamecard field loading: 12
+First gamecard selected: ra {7,11}
+Second gamecard selected: ra {3,1}
+
+Gamecard field loading: 13
+First gamecard selected: ra {7,5}
+Second gamecard selected: ra {14,5}
+
+Gamecard field loading: 14
+First gamecard selected: ri {7,4}
+Second gamecard selected: ri {14,6}
+
+Gamecard field loading: 15
+First gamecard selected: ra {8,11}
+Second gamecard selected: ra {7,7}
+
+Gamecard field loading: 16
+First gamecard selected: ro {11,12}
+Second gamecard selected: ro {9,11}
+
+Gamecard field loading: 17
+First gamecard selected: ru {11,11}
+Second gamecard selected: ru {7,3}
+
+Gamecard field loading: 18
+First gamecard selected: ra {3,8}
+Second gamecard selected: ra {5,12}
+
+Gamecard field loading: 19
+First gamecard selected: ru {6,13}
+Second gamecard selected: ru {6,8}
+
+Gamecard field loading: 20
+First gamecard selected: ri {3,0}
+Second gamecard selected: ri {9,13}
+
+Gamecard field loading: 21
+First gamecard selected: ru {4,0}
+Second gamecard selected: ru {11,0}
+
+Gamecard field loading: 22
+First gamecard selected: ri {12,0}
+Second gamecard selected: ri {12,3}
+
+Gamecard field loading: 23
+First gamecard selected: ra {5,1}
+Second gamecard selected: ra {2,4}
+
+Gamecard field loading: 24
+First gamecard selected: ru {6,1}
+Second gamecard selected: ru {1,6}
+
+Gamecard field loading: 25
+First gamecard selected: ru {9,1}
+Second gamecard selected: ru {13,4}
+
+Gamecard field loading: 26
+First gamecard selected: ra {12,1}
+Second gamecard selected: ra {4,2}
+
+Gamecard field loading: 27
+First gamecard selected: ro {13,7}
+Second gamecard selected: ro {8,5}
+
+Gamecard field loading: 28
+First gamecard selected: re {9,6}
+Second gamecard selected: re {7,8}
+
+Gamecard field loading: 29
+First gamecard selected: re {9,8}
+Second gamecard selected: re {12,8}
+
+Time elapsed: 0.0
+Time to end of trial: 900.0

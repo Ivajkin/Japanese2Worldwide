@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>"C:\Data\Учеба\Work\EasyLanGo\data\Japan Flower (Hirogana)\GameFieldConfig.gamefield"</StartArguments>
+  </PropertyGroup>
+</Project>

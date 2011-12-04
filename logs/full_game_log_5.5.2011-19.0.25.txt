@@ -1,0 +1,183 @@
+Gamelog:
+Setup activation
+Product is used some time in trial version
+Called gameSetup()
+Не загрузилось"Easy-1-aka/a.png"!
+Не загрузилось"Easy-1-aka/i.png"!
+Не загрузилось"Easy-1-aka/u.png"!
+Не загрузилось"Easy-1-aka/e.png"!
+Не загрузилось"Easy-1-aka/o.png"!
+Gamecard field loading: 0
+First gamecard selected: u {7,7}
+Second gamecard selected: u {13,13}
+
+Gamecard field loading: 1
+First gamecard selected: o {6,10}
+Second gamecard selected: o {3,7}
+
+Gamecard field loading: 2
+First gamecard selected: u {1,9}
+Second gamecard selected: u {5,2}
+
+Gamecard field loading: 3
+First gamecard selected: a {12,6}
+Second gamecard selected: a {1,12}
+
+Gamecard field loading: 4
+First gamecard selected: o {11,6}
+Second gamecard selected: o {6,9}
+
+Gamecard field loading: 5
+First gamecard selected: u {13,9}
+Second gamecard selected: u {13,0}
+
+Gamecard field loading: 6
+First gamecard selected: o {12,2}
+Second gamecard selected: o {3,4}
+
+Gamecard field loading: 7
+First gamecard selected: e {11,5}
+Second gamecard selected: e {4,3}
+
+Gamecard field loading: 8
+First gamecard selected: u {1,11}
+Second gamecard selected: u {1,13}
+
+Gamecard field loading: 9
+First gamecard selected: a {13,1}
+Second gamecard selected: a {3,12}
+
+Gamecard field loading: 10
+First gamecard selected: a {1,6}
+Second gamecard selected: a {9,10}
+
+Gamecard field loading: 11
+First gamecard selected: e {1,8}
+Second gamecard selected: e {5,3}
+
+Gamecard field loading: 12
+First gamecard selected: i {6,3}
+Second gamecard selected: i {13,8}
+
+Gamecard field loading: 13
+First gamecard selected: u {13,12}
+Second gamecard selected: u {14,0}
+
+Gamecard field loading: 14
+First gamecard selected: i {6,11}
+Second gamecard selected: i {7,3}
+
+Gamecard field loading: 15
+First gamecard selected: e {4,14}
+Second gamecard selected: e {5,14}
+
+Gamecard field loading: 16
+First gamecard selected: u {8,3}
+Second gamecard selected: u {11,4}
+
+Gamecard field loading: 17
+First gamecard selected: e {9,11}
+Second gamecard selected: e {11,3}
+
+Gamecard field loading: 18
+First gamecard selected: o {4,12}
+Second gamecard selected: o {1,10}
+
+Gamecard field loading: 19
+First gamecard selected: a {10,10}
+Second gamecard selected: a {12,14}
+
+Gamecard field loading: 20
+First gamecard selected: o {5,4}
+Second gamecard selected: o {6,4}
+
+Gamecard field loading: 21
+First gamecard selected: e {7,4}
+Second gamecard selected: e {4,7}
+
+Gamecard field loading: 22
+First gamecard selected: o {13,10}
+Second gamecard selected: o {6,6}
+
+Gamecard field loading: 23
+First gamecard selected: e {10,4}
+Second gamecard selected: e {8,4}
+
+Gamecard field loading: 24
+First gamecard selected: u {3,11}
+Second gamecard selected: u {4,8}
+
+Gamecard field loading: 25
+First gamecard selected: i {4,11}
+Second gamecard selected: i {9,4}
+
+Gamecard field loading: 26
+First gamecard selected: o {10,11}
+Second gamecard selected: o {3,8}
+
+Gamecard field loading: 27
+First gamecard selected: o {6,12}
+Second gamecard selected: o {2,5}
+
+Gamecard field loading: 28
+First gamecard selected: u {13,11}
+Second gamecard selected: u {6,5}
+
+Gamecard field loading: 29
+First gamecard selected: o {7,5}
+Second gamecard selected: o {6,8}
+
+Gamecard field loading: 30
+First gamecard selected: u {8,5}
+Second gamecard selected: u {9,5}
+
+Gamecard field loading: 31
+First gamecard selected: u {10,5}
+Second gamecard selected: u {7,6}
+
+Gamecard field loading: 32
+First gamecard selected: a {8,6}
+Second gamecard selected: a {2,13}
+
+Gamecard field loading: 33
+First gamecard selected: u {9,6}
+Second gamecard selected: u {3,13}
+
+Gamecard field loading: 34
+First gamecard selected: o {4,13}
+Second gamecard selected: o {10,6}
+
+Gamecard field loading: 35
+First gamecard selected: u {13,6}
+Second gamecard selected: u {1,7}
+
+Gamecard field loading: 36
+First gamecard selected: u {8,7}
+Second gamecard selected: u {9,7}
+
+Gamecard field loading: 37
+First gamecard selected: u {10,7}
+Second gamecard selected: u {11,7}
+
+Gamecard field loading: 38
+First gamecard selected: i {6,13}
+Second gamecard selected: i {12,7}
+
+Gamecard field loading: 39
+First gamecard selected: o {13,7}
+Second gamecard selected: o {6,14}
+
+Gamecard field loading: 40
+First gamecard selected: i {7,14}
+Second gamecard selected: i {8,14}
+
+Gamecard field loading: 41
+First gamecard selected: a {9,14}
+Second gamecard selected: a {10,14}
+
+Gamecard field loading: 42
+First gamecard selected: e {11,14}
+Second gamecard selected: e {13,14}
+
+Time elapsed: 198.67787
+Time to end of trial: 701.32214

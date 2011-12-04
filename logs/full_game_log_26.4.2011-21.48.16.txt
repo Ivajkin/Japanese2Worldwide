@@ -1,0 +1,142 @@
+Gamelog:
+Setup activation
+Product is activated
+Activating application
+Called gameSetup()
+Не загрузилось"Simple-6-ha/ha.png"!
+Не загрузилось"Simple-6-ha/hi.png"!
+Не загрузилось"Simple-6-ha/fu.png"!
+Не загрузилось"Simple-6-ha/he.png"!
+Не загрузилось"Simple-6-ha/ho.png"!
+Gamecard field loading: 0
+First gamecard selected: ho {12,3}
+Second gamecard selected: ho {6,9}
+
+Gamecard field loading: 1
+First gamecard selected: fu {10,14}
+Second gamecard selected: fu {12,13}
+
+Gamecard field loading: 2
+First gamecard selected: he {11,12}
+Second gamecard selected: he {6,5}
+
+Gamecard field loading: 3
+First gamecard selected: hi {7,7}
+Second gamecard selected: hi {1,14}
+
+Gamecard field loading: 4
+First gamecard selected: hi {0,1}
+Second gamecard selected: hi {4,12}
+
+Gamecard field loading: 5
+First gamecard selected: fu {7,8}
+Second gamecard selected: fu {13,3}
+
+Gamecard field loading: 6
+First gamecard selected: ho {11,4}
+Second gamecard selected: ho {6,6}
+
+Gamecard field loading: 7
+First gamecard selected: fu {13,4}
+Second gamecard selected: fu {7,5}
+
+Gamecard field loading: 8
+First gamecard selected: he {8,9}
+Second gamecard selected: he {4,11}
+
+Gamecard field loading: 9
+First gamecard selected: hi {10,7}
+Second gamecard selected: hi {1,1}
+
+Gamecard field loading: 10
+First gamecard selected: ha {13,10}
+Second gamecard selected: ha {10,11}
+
+Gamecard field loading: 11
+First gamecard selected: ho {0,2}
+Second gamecard selected: ho {10,5}
+
+Gamecard field loading: 12
+First gamecard selected: he {11,5}
+Second gamecard selected: he {15,9}
+
+Gamecard field loading: 13
+First gamecard selected: he {12,5}
+Second gamecard selected: he {0,0}
+
+Gamecard field loading: 14
+First gamecard selected: he {8,6}
+Second gamecard selected: he {6,10}
+
+Gamecard field loading: 15
+First gamecard selected: ha {9,6}
+Second gamecard selected: ha {1,0}
+
+Gamecard field loading: 16
+First gamecard selected: ha {10,9}
+Second gamecard selected: ha {12,9}
+
+Gamecard field loading: 17
+First gamecard selected: he {2,0}
+Second gamecard selected: he {5,12}
+
+Gamecard field loading: 18
+First gamecard selected: hi {9,8}
+Second gamecard selected: hi {11,8}
+
+Gamecard field loading: 19
+First gamecard selected: hi {5,10}
+Second gamecard selected: hi {14,11}
+
+Gamecard field loading: 20
+First gamecard selected: ho {9,10}
+Second gamecard selected: ho {6,11}
+
+Игрок выбрал карту fu и объеденил с fu
+>>Player:fu=>fu
+Игрок выбрал карту hi и объеденил с hi
+>>Player:hi=>hi
+Игрок выбрал карту he и объеденил с he
+>>Player:he=>he
+Игрок выбрал карту ho и объеденил с ho
+>>Player:ho=>ho
+Игрок выбрал карту fu и объеденил с fu
+>>Player:fu=>fu
+Игрок выбрал карту he и объеденил с he
+>>Player:he=>he
+Игрок выбрал карту fu и объеденил с fu
+>>Player:fu=>fu
+Игрок выбрал карту hi и объеденил с hi
+>>Player:hi=>hi
+Игрок выбрал карту hi и объеденил с hi
+>>Player:hi=>hi
+Игрок выбрал карту he и объеденил с hi
+>>Player:he=>hi
+Игрок выбрал карту he и объеденил с he
+>>Player:he=>he
+Игрок выбрал карту he и объеденил с he
+>>Player:he=>he
+Игрок выбрал карту hi и объеденил с hi
+>>Player:hi=>hi
+Игрок выбрал карту ha и объеденил с ho
+>>Player:ha=>ho
+Игрок выбрал карту ha и объеденил с ha
+>>Player:ha=>ha
+Игрок выбрал карту he и объеденил с he
+>>Player:he=>he
+Игрок выбрал карту ho и объеденил с ho
+>>Player:ho=>ho
+Игрок выбрал карту ha и объеденил с ha
+>>Player:ha=>ha
+Игрок выбрал карту ha и объеденил с ha
+>>Player:ha=>ha
+Игрок выбрал карту he и объеденил с he
+>>Player:he=>he
+Игрок выбрал карту hi и объеденил с hi
+>>Player:hi=>hi
+Игрок выбрал карту ho и объеденил с ho
+>>Player:ho=>ho
+Игрок выбрал карту ho и объеденил с ho
+>>Player:ho=>ho
+Time elapsed: 0.0
+Time to end of trial: 900.0
