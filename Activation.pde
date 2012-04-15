@@ -40,9 +40,9 @@ class _ActivationGlobalInfo {
   PFont SerialKeyInputFont = null;
   // Отрисовка окна для ввода пароля для активации.
   void EnterSerialKeyFormDraw() {
+    background(128,128,128);
     textFont(SerialKeyInputFont);
     fill(0);
-    background(128);
     image(activateScreenBackground, screenSizeX/2 - activateScreenBackground.width/2, screenSizeY/2 - activateScreenBackground.height/2);
     purchaseBtn.update();
     acceptBtn.update();

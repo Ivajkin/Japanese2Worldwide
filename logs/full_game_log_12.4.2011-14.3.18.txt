@@ -1,5 +1,0 @@
-Gamelog:
-Setup activation
-Product is just installed, the file "logs/chunck" do not exist.
-Time elapsed: 1.8999995
-Time to end of trial: 898.1

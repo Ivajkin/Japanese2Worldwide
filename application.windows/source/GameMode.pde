@@ -228,7 +228,7 @@ void gameSetup() {
   //TODO
   //soundTimesup = MusicBox.loadSound("timesup.wav");//minim.loadFile(currentMode+"/timesup.wav");
   soundVictory = MusicBox.loadSound("victory.wav");//minim.loadFile(currentMode+"/victory.wav");
-  back = loadImage(currentMode+"/background.jpg");
+  menuBackground = loadImage(currentMode+"/background.jpg");
   gamecardframe = loadImage(currentMode+"/frame.png");
   gamecardselectionframe = loadImage(currentMode+"/selectionframe.png");
   String[] lines = loadStrings(currentMode+"/"+currentMode+".txt");
@@ -280,19 +280,19 @@ void game() {
       gamecardgrid[i].update();
     }
   }
-  boolean isBackgroundMoving = (playareaWidth!=back.width||playareaHeight!=back.height);
+  boolean isBackgroundMoving = (playareaWidth!=menuBackground.width||playareaHeight!=menuBackground.height);
   // Отрисовка
   if(isFullScreenRedrawNeeded || isBackgroundMoving) {
     isFullScreenRedrawNeeded = false;
     if(isBackgroundMoving) {
       // maxl=(w-back.w)
-      float newBackgroundPosX = mouseX*(width-back.width)/width;
+      float newBackgroundPosX = mouseX*(width-menuBackground.width)/width;
       backgroundPosX = backgroundPosX*0.8 + newBackgroundPosX*0.2;
-      float newBackgroundPosY = mouseY*(height-back.height)/height;
+      float newBackgroundPosY = mouseY*(height-menuBackground.height)/height;
       backgroundPosY = backgroundPosY*0.8 + newBackgroundPosY*0.2;
-      image(back,backgroundPosX,backgroundPosY);
+      image(menuBackground,backgroundPosX,backgroundPosY);
     } else {
-      image(back,0,0);
+      image(menuBackground,0,0);
     }
     for(int i = 0; i<gamecardNum; i++) {
       if(gamecardgrid[i]!=null && !gamecardgrid[i].deadcard) {
